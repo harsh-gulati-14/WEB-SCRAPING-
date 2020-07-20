@@ -11,6 +11,6 @@ axios(user)
     let h3=$('.rating-ranks').text().trim()
     let rating=$('.rating-number').text().trim()
     users[0]=h3;
-    console.log(h3)
+    console.log(h-3)
     })
 .catch(console.error);
